@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="forecast_image_size">30dp</dimen>
+    <dimen name="forecast_primary_text_size">13dp</dimen>
+    <dimen name="forecast_secondary_text_size">10dp</dimen>
+    <dimen name="forecast_margin_start_end">5dp</dimen>
+    <dimen name="forecast_margin_text">5dp</dimen>
+</resources>
